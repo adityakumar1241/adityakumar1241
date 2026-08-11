@@ -7,12 +7,14 @@ I'm currently building my foundation in software development, AI, and machine le
 
 ## 🛠️ Technologies & Skills
 
-**Languages**
-- Python
-- C++
-- C
-- HTML
-- CSS
+Languages
+• Python
+• C++
+• C
+
+Web
+• HTML
+• CSS
 
 **AI / ML**
 - NumPy
